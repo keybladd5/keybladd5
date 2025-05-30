@@ -17,8 +17,6 @@ Eventualmente se irá subiendo pa' que los **vibe coders** no se pierdan.
 
 ## 🛠️ Tecnologías y herramientas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=keybladd5&show_icons=true&theme=radical)](https://github.com/keybladd5)
-
 - **Lenguajes:** C, C++
 - **Herramientas:** Makefile, Git, Shell scripting
 - **Sistemas:** Linux, macOS
