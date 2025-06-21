@@ -2,7 +2,7 @@
 
 
 
-🎓 Estudiante en [42Barcelona](https://42barcelona.com) y conocido como `polmarti` en la [42Network](https://42.fr). Apasionado por la programación de bajo nivel, los algoritmos y el desarrollo de software robusto y eficiente.
+🎓 Estudiante en [42Barcelona](https://42barcelona.com) `polmarti` en [42Network](https://42.fr).
 
 ## 📚 Docu... ¿qué?
 
@@ -13,14 +13,13 @@ Eventualmente se irá subiendo pa' que los **vibe coders** no se pierdan.
 
 - 💻 Actualmente profundizando en C y C++ a través de los proyectos del currículo de 42Barcelona.
 - 🧩 Me encanta aprender a programar cosas nuevas, pero sobretodo inutiles!.
-- 🌐 El software bueno es el software que respeta la libertad de los individuos y las comunidades.
+- 🌐 El buen software es el software que respeta la libertad de los individuos y los colectivos.
 
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** C, C++
-- **Herramientas:** Makefile, Git, Shell scripting
+- **Herramientas:** Makefile, Git, Shell scripting, Valgrind, Lldb, Docker
 - **Sistemas:** Linux, macOS
-- **Otros:** GitHub Actions, Valgrind
 
 [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=keybladd5&layout=compact&theme=radical)](https://github.com/keybladd5)
 
