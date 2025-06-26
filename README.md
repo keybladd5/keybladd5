@@ -7,12 +7,12 @@
 ## 📚 Docu... ¿qué?
 
 Ningún repo tiene documentación (de momento).  
-Eventualmente se irá subiendo pa' que los **vibe coders** no se pierdan.  
+Eventualmente se irá subiendo.
 
 ## 🧠 Sobre mí
 
 - 💻 Actualmente profundizando en C y C++ a través de los proyectos del currículo de 42Barcelona.
-- 🧩 Me encanta aprender a programar cosas nuevas, pero sobretodo inutiles!.
+- 🧩 Me encanta aprender a programar cosas nuevas, pero sobretodo inutiles!
 - 🌐 El buen software es el software que respeta la libertad de los individuos y los colectivos.
 
 ## 🛠️ Tecnologías y herramientas
@@ -26,5 +26,3 @@ Eventualmente se irá subiendo pa' que los **vibe coders** no se pierdan.
 ## 📫 Contacto
 
 - LinkedIn: [Pol Martínez Badenes](https://www.linkedin.com/in/pol-mart%C3%ADnez-badenes-b5b58a267/)
-
-¡No dudes en explorar mis repositorios y conectar conmigo!
